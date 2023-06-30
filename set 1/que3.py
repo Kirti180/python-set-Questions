@@ -1,0 +1,8 @@
+number=list(range(1,11))
+print(number)
+number.append(11)
+print(number)
+number.remove(11)
+print(number)
+number.sort()
+print(number)
